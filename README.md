@@ -16,7 +16,7 @@ I contribute to the foundational tools that power the internet's infrastructure:
 
 
 ### 🛡️ Mission-Critical Experience
-* **Atruvia (Volksbank/Sparkasse):** Engineered high-availability **OpenShift** environments for Germany’s largest banking network, ensuring strict **BaFin compliance**.
+* **Atruvia (Volksbank):** Engineered high-availability **OpenShift** environments for Germany’s largest banking network, ensuring strict **BaFin compliance**.
 * **Automotive Giants (Porsche, VW, BMW):** Led petabyte-scale data replication across 60+ countries and designed hybrid cloud migrations.
 * **HPE:** Consulted on worldwide compliance software and enterprise-grade architecture.
 
