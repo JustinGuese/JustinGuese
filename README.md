@@ -19,7 +19,6 @@ I contribute to the foundational tools that power the internet's infrastructure:
 
 #### **DataFortress.cloud (Self-employed) | Oct 2020 – Present**
 * **Atruvia (Banking IT):** Engineered high-availability **OpenShift** environments for Germany’s largest banking network, ensuring strict **BaFin compliance**.
-    * *Key Achievement:* Resolved a critical **HashiCorp Vault** cross-datacenter failure within a 2-hour window, preventing a mandatory federal reporting event.
 * **Automotive (HPE/VW/Porsche/BMW):** Led petabyte-scale data replication across 60+ countries and designed hybrid cloud migrations.
 * **Health & Bio (Buchinger Wilhelmi / NavicareNow):** CTO and Architect roles focusing on transferring sensitive health data to the cloud and building ML pipelines for fasting outcome prediction.
 * **Quant (Jim Harris Corp):** Developed real-time stock prediction systems using Kafka, RabbitMQ, and Tensorflow.
