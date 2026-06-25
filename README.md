@@ -14,6 +14,18 @@ I contribute to the foundational tools that power the internet's infrastructure:
 * **[Pandas-Dev / Pandas](https://github.com/pandas-dev/pandas):** Contributor to the world's most critical data manipulation library.
 * **[Microsoft / Winget-pkgs](https://github.com/microsoft/winget-pkgs):** Active contributor to the Windows Package Manager repository.
 
+### 🔬 Independent Research — Brain-Inspired Efficient LLMs
+
+**[S²-MoE — Evolving Sparse Spiking Mixture-of-Experts](https://github.com/JustinGuese/llm-lean-neuro-algo)** · [📄 Paper (DOI: 10.5281/zenodo.20846758)](https://doi.org/10.5281/zenodo.20846758)
+
+A from-scratch, brain-inspired language model that gets *cheaper* as it scales — Top-1 spiking-expert routing, a matrix-state Gated Linear Attention backbone, and an offline "sleep phase" that merges, prunes, and grows its own network topology.
+
+* ⚡ **~1/21 → ~1/43 the active FFN compute** of a size-matched dense model, and **up to 7.1× less serving energy** (H100) — the efficiency lead *widens* as you add experts.
+* 🎯 **Quality-competitive with its distilled dense teacher** (−5.15% perplexity on FineWeb-Edu, −4.4% on TinyStories at Nₑ=32, 3 seeds; BLiMP-neutral).
+* 🔬 **47 logged, fully reproducible experiments** — including *six documented negative results* that bound the design space. Honest scoping over hype.
+* 🧰 Built solo in `PyTorch` (cu128/Blackwell): custom autograd grouped-GEMM kernel, surrogate-gradient LIF neurons, SET/RigL structural plasticity, peer self-distillation.
+
+> Published preprint (CC BY 4.0) · independent research, no lab affiliation.
 
 ### 🛡️ Professional Work History & "War Stories"
 
